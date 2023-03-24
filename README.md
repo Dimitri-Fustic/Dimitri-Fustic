@@ -1,4 +1,4 @@
-###Hi there, I'm Dimitri 👋
+### Hi there, I'm Dimitri 👋
 
 🌱 I’m currently learning computer science with CS50.
 
